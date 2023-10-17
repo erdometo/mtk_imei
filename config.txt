@@ -1,0 +1,10 @@
+{
+  "product":  "ruby",
+  "comment":  "run 'getprop ro.boot.chipid' in terminal to get chip_id",
+  "chip_id":  "",
+  "imei_1":   "",
+  "imei_2":   "",
+  "meid":     "",
+  "wifi_mac": "",
+  "bt_mac":   ""
+}
